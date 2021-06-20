@@ -1,2 +1,2 @@
-grip task 1 : BasicBankingSystem
+grip task 1 : Basic Banking System
 
